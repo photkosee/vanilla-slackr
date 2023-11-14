@@ -3,6 +3,9 @@
 Please contact me to review the complete version of the code in person. <br>
 I achieved full marks + full bonus marks for this assesment. 
 
+## Demo
+![Screenshot (456)](https://github.com/photkosee/slackr-vanilla/assets/114990364/d9904ee8-82ee-4828-a89c-bee0cec65bdd)
+
 1. Background & Motivation
 2. The Task
 3. Getting Started
