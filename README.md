@@ -4,16 +4,13 @@ Please contact me to review the complete version of the code in person. <br>
 I achieved full marks + full bonus marks for this assesment. 
 
 ## Demo
-![Screenshot (456)](https://github.com/photkosee/slackr-vanilla/assets/114990364/d9904ee8-82ee-4828-a89c-bee0cec65bdd)
+![Screenshot (456)](https://github.com/photkosee/slackr-vanilla/assets/114990364/d9904ee8-82ee-4828-a89c-bee0cec65bdd) <br>
 
-1. Background & Motivation
-2. The Task
-3. Getting Started
-4. Constraints & Assumptions
-5. Marking Criteria
-6. Originality of Work
-7. Submission
-8. Late Submission Policy
+- [1. Background & Motivation](#1.1.-background-&-motivation)
+- [2. The Task](#2.-the-task)
+- [3. Getting Started](#3.-getting-started)
+- [4. Constraints & Assumptions](#4.-constraints-&-assumptions)
+- [5. Marking Criteria](#5.-marking-criteria)
 
 ## 0. Change Log
 
@@ -407,46 +404,3 @@ Your assignment will be hand-marked by tutor(s) in the course according to the c
 </table>
 
 Bonus marks are applicable beyond this mark. Please see section `2.8`.
-
-## 6. Originality of Work
-
-The work you submit must be your own work.  Submission of work partially or completely derived from
-any other person or jointly written with any other person is not permitted.
-
-The penalties for such an offence may include negative marks, automatic failure of the course and
-possibly other academic discipline. Assignment submissions will be examined both automatically and
-manually for such submissions.
-
-Relevant scholarship authorities will be informed if students holding scholarships are involved in
-an incident of plagiarism or other misconduct.
-
-Do not provide or show your assignment work to any other person &mdash; apart from the teaching
-staff of COMP6080.
-
-If you knowingly provide or show your assignment work to another person for any reason, and work
-derived from it is submitted, you may be penalized, even if the work was submitted without your
-knowledge or consent.  This may apply even if your work is submitted by a third party unknown to
-you.
-
-Every time you make commits or pushes on this repository, you are acknowledging that the work you
-submit is your own work (as described above).
-
-Note you will not be penalized if your work has the potential to be taken without your consent or
-knowledge.
-
-**PLEASE NOTE: To ensure the originality of your work, we are requiring that you regularly commit your work to git throughout the weeks this assignment has been released. Regular and small commits (essentially at least once a day that you work on the assignment) are critical. Failures to commit regularly (or at minimum, failures to commit in small chunks) may results in either penalties of up to 20% of result in allegations of plagiarism.**
-
-## 7. Submission
-
-This assignment is due *Friday 27th October, 10pm*.
-
-To submit your assignment, you must you've pushed all of your code to your gitlab master branch. You can check if you've done this properly by seeing what code is on the gitlab site on your master branch.
- 
-We will collect the latest work on your master branch of gitlab at the time of submission.
-
-It is your responsibiltiy to ensure that your code can run successfully when cloned fresh from Gitlab.
-
-## 8. Late Submission Policy
-
-No late submission are accepted.
-
