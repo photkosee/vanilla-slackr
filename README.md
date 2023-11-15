@@ -6,11 +6,11 @@ I achieved full marks + full bonus marks for this assesment.
 ## Demo
 ![Screenshot (456)](https://github.com/photkosee/slackr-vanilla/assets/114990364/d9904ee8-82ee-4828-a89c-bee0cec65bdd) <br>
 
-- [1. Background & Motivation](#1.1.-background-&-motivation)
-- [2. The Task](#2.-the-task)
-- [3. Getting Started](#3.-getting-started)
-- [4. Constraints & Assumptions](#4.-constraints-&-assumptions)
-- [5. Marking Criteria](#5.-marking-criteria)
+- [1. Background & Motivation](#11-background--motivation)
+- [2. The Task](#2-the-task)
+- [3. Getting Started](#3-getting-started)
+- [4. Constraints & Assumptions](#4-constraints--assumptions)
+- [5. Marking Criteria](#5-marking-criteria)
 
 ## 0. Change Log
 
