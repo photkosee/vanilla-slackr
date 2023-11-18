@@ -4,7 +4,8 @@ Please contact me to review the complete version of the code in person. <br>
 I achieved full marks + full bonus marks for this assesment. 
 
 ## Demo
-![Screenshot (456)](https://github.com/photkosee/slackr-vanilla/assets/114990364/d9904ee8-82ee-4828-a89c-bee0cec65bdd) <br>
+[A youtube video for the demo is here](https://youtu.be/l3syFS6MqM0) <br>
+[![Screenshot (456)](https://github.com/photkosee/slackr-vanilla/assets/114990364/d9904ee8-82ee-4828-a89c-bee0cec65bdd)](https://youtu.be/l3syFS6MqM0) <br>
 
 - [1. Background & Motivation](#11-background--motivation)
 - [2. The Task](#2-the-task)
