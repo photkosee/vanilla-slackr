@@ -5,6 +5,7 @@ I achieved full marks + full bonus marks for this assesment.
 
 ## Demo
 [A youtube video for the demo is here](https://youtu.be/hY2UuBCNYNU) <br>
+
 [![Screenshot (456)](https://github.com/photkosee/slackr-vanilla/assets/114990364/d9904ee8-82ee-4828-a89c-bee0cec65bdd)](https://youtu.be/hY2UuBCNYNU) <br>
 
 - [1. Background & Motivation](#11-background--motivation)
